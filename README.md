@@ -1,7 +1,7 @@
 # API Documentation
 
-API jest hostowane na stronie render.com
-Aby użyć API należy użyć przedrostka https://receipt-scanner-api.onrender.com
+API było hostowane na stronie render.com
+Aby użyć API należało użyć przedrostka https://receipt-scanner-api.onrender.com
 
 ## POST /register
 
